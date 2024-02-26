@@ -9,7 +9,7 @@
 import numpy as np
 
 import config as cfg
-import aux
+import satgen_aux as aux
 import profiles as pr
 import cosmo as co
 
