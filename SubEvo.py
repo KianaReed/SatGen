@@ -19,7 +19,7 @@ import cosmo as co
 import evolve as ev
 from profiles import NFW,Green
 from orbit import orbit
-import aux
+import satgen_aux as aux
 
 import numpy as np
 import sys
