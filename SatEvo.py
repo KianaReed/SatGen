@@ -14,7 +14,7 @@ import evolve as ev
 from profiles import NFW,Dekel,MN,Einasto
 from orbit import orbit
 import galhalo as gh
-import aux
+import satgen_aux as aux
 
 import numpy as np
 import sys
